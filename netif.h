@@ -20,7 +20,7 @@
 #ifndef NDN_NETIF_H_
 #define NDN_NETIF_H_
 
-#include <kernel_types.h>
+#include "sched.h"
 
 #include "encoding/block.h"
 

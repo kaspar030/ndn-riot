@@ -22,7 +22,6 @@
 
 #include "encoding/shared-block.h"
 
-#include <kernel_types.h>
 //#include <xtimer.h>
 
 #ifdef __cplusplus
