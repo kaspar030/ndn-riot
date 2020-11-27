@@ -23,7 +23,7 @@
 #include "encoding/shared-block.h"
 #include "face-table.h"
 
-#include "sched.h"
+#include <sched.h>
 #include <xtimer.h>
 
 #ifdef __cplusplus

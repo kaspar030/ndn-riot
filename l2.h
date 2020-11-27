@@ -23,7 +23,7 @@
 #include "encoding/shared-block.h"
 
 #include <net/gnrc/pktbuf.h>
-#include "sched.h"
+#include <sched.h>
 
 #ifdef __cplusplus
 extern "C" {

@@ -24,7 +24,7 @@
 #include "face-table.h"
 
 #include <xtimer.h>
-#include "sched.h"
+#include <sched.h>
 
 #ifdef __cplusplus
 extern "C" {

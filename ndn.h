@@ -20,7 +20,7 @@
 #ifndef NDN_H_
 #define NDN_H_
 
-#include "sched.h"
+#include <sched.h>
 
 #ifdef __cplusplus
 extern "C" {
